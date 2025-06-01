@@ -6,6 +6,7 @@ A responsive and visually appealing restaurant website built using HTML, CSS, an
 
 
  Features
+ 
 🍔 Hero section with promotional banner
 
 🛍️ Feature cards for discount, freshness, and delivery
